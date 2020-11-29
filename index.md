@@ -3,9 +3,7 @@
 <p><b>学校：浙江万里学院</b></p>
 <p><b>邮箱：1596366984@qq.com</b></p>
 <td with="25%">
-<img src="IMG_20201129_094153.jpg" width="600" height="1000">
-<td>
-
+<img src="IMG_20201129_094153.jpg" width="300" height="400">
 #研究专业：网络空间安全
 
 #爱好
